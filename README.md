@@ -1,5 +1,7 @@
 # WP Prompts Lib - User Guide
 
+<img width="1900" height="946" alt="download_prompt" src="https://github.com/user-attachments/assets/25aa6b5c-67a3-4681-861d-ad01765f70f1" />
+
 ## Overview
 WP Prompts Lib is a WordPress plugin designed to create and manage AI prompts with associated metadata, categories, and tags.
 
